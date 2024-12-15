@@ -6,8 +6,6 @@
 
 作为一位热情的Minecraft服务器服主，保障玩家数据的安全至关重要。本项目提供了两套自动化脚本，用于备份和回档您的Minecraft Bedrock服务器。这些脚本旨在提高效率，减少人为错误，确保服务器数据的安全性。
 
-![bbb60e77250842478d1d5e44a665ca83.jpg](https://img-blog.csdnimg.cn/bbb60e77250842478d1d5e44a665ca83.jpg)
-
 ## 功能
 
 - **一键备份**：将服务器的`worlds`目录至`backup`目录。
