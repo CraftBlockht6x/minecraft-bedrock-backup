@@ -10,12 +10,12 @@
 
 ### 报告问题
 
-1. 在[问题跟踪器](https://github.com/yourusername/minecraft-bedrock-backup/issues)中搜索您遇到的问题，确保它是一个新的问题。
+1. 在[问题跟踪器](https://github.com/craftblockht6x/minecraft-bedrock-backup/issues)中搜索您遇到的问题，确保它是一个新的问题。
 2. 如果没有找到类似的问题，请创建一个新的问题报告。提供尽可能详细的信息，包括错误信息、发生问题的步骤、预期结果和实际结果等。
 
 ### 提交改进
 
-1. 如果您想为项目添加新功能或修复问题，请先在[问题跟踪器](https://github.com/yourusername/minecraft-bedrock-backup/issues)中讨论您的想法。
+1. 如果您想为项目添加新功能或修复问题，请先在[问题跟踪器](https://github.com/craftblockht6x/minecraft-bedrock-backup/issues)中讨论您的想法。
 2. 克隆仓库并创建一个新的分支：`git checkout -b my-new-feature`
 3. 在您的分支上进行更改。
 4. 提交您的更改：`git commit -am 'Add some feature'`
