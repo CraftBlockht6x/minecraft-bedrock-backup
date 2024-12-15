@@ -6,12 +6,16 @@
 
 作为一位热情的Minecraft服务器服主，保障玩家数据的安全至关重要。本项目提供了两套自动化脚本，用于备份和回档您的Minecraft Bedrock服务器。这些脚本旨在提高效率，减少人为错误，确保服务器数据的安全性。
 
+![bbb60e77250842478d1d5e44a665ca83.jpg](https://img-blog.csdnimg.cn/bbb60e77250842478d1d5e44a665ca83.jpg)
+
 ## 功能
 
 - **一键备份**：将服务器的`worlds`目录至`backup`目录。
 - **快速回档**：允许从多个备份中选择一个时间点，将服务器状态回溯至那时。
 - **条款同意**：在脚本执行前，要求用户确认已阅读并同意代码使用条款。
 - **自动删除旧备份**：自动保留最新几个备份，同时清除更早的备份以节省空间。
+
+![283ad8d25c864e7787c37dffb14960b8.jpg](https://img-blog.csdnimg.cn/283ad8d25c864e7787c37dffb14960b8.jpg)
 
 ## 运行条件
 
@@ -25,6 +29,8 @@
 2. **上传脚本**：使用FTP或SSH将脚本上传至服务器。
 3. **赋予权限**：执行`chmod +x backup_script.sh restore_script.sh`，赋予脚本执行权限。
 
+![8e564dcbc0ff4498a01f780ae433cba6.jpg](https://img-blog.csdnimg.cn/8e564dcbc0ff4498a01f780ae433cba6.jpg)
+
 ## 使用方法
 
 ### 备份脚本
@@ -37,6 +43,8 @@
 - 同意条款：在`restore_script.sh`中，将`AGREEMENT`设为`true`。
 - 选择备份：确定要回档至的备份文件夹名称。
 - 运行脚本：通过SSH连接服务器，执行`./restore_script.sh world_backup_YYYYMMDD_HHMMSS`。
+
+![bcb4a3376ae84d2f9038758d872c83c5.jpg](https://img-blog.csdnimg.cn/bcb4a3376ae84d2f9038758d872c83c5.jpg)
 
 ## 注意事项
 
