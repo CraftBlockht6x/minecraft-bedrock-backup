@@ -25,7 +25,7 @@
 
 ## 如何报告不当行为
 
-如果您遇到或目睹任何违反这些准则的行为，请通过[联系我们](mailto:your-email@example.com)的方式报告。所有报告都将被认真对待并保密处理。
+如果您遇到或目睹任何违反这些准则的行为，请通过[CraftBlockht6x@outlook.com](mailto:CraftBlockht6x@outlook.com)的方式报告。所有报告都将被认真对待并保密处理。
 
 ## 范围
 
