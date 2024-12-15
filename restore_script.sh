@@ -1,7 +1,7 @@
 #!/bin/bash
 # 回档代码
 # 已阅读并同意代码使用条款（同意为true，不同意为false，默认为false）
-# 请阅读以下条款后再运行此脚本：[条款链接]
+# 请阅读以下条款后再运行此脚本：https://github.com/CraftBlockht6x/minecraft-bedrock-backup/blob/main/LICENSE.md
 AGREEMENT=false
 
 # 检查AGREEMENT是否为true或false
